@@ -7,7 +7,7 @@
 This game was my submission for the 48hr  <a href="https://itch.io/jam/gmtk-2021/rate/1081726">GMTK  2021</a> Gam Jam.
 The prompt was "linked together".I took that idea and made 2 orbs linked together that needed to move together to get through the levels.
 
- <h2>made with Unity. </h2>
+ <h2>made with Unity. <a href="https://romulan.itch.io/orb-bois">Playable here  </a> </h2>
 
 
 
